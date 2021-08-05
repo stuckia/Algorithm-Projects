@@ -11,7 +11,7 @@ public class SelectionSort
 	
 	public void sort(int arr[])
 	{
-    //run sorting algorithm
+    		//run sorting algorithm
 		int n = arr.length;
 		for(int i=0; i<n-1; i++)
 		{
